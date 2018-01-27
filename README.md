@@ -1,2 +1,2 @@
 # bando
-Sound of Kadıköy 
+Sound of Kadıkoy 
